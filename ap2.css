@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+nav {
+    margin: 20px;
+    background-color: coral;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 5;
+    width: fit-content;
+}
+
+nav a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-align: center;   
+}
+
+p {
+    background-color: darkcyan;
+    border-width: 10p   x;
+    margin: 10px;
+    width: 75%;
+    font-size: larger;
+    text-align: justify;
+}
+
+ul {
+    background-color: darkcyan;
+    margin: 0;
+    width: 50%;
+}
+
+ol {
+    background-color: darkcyan;
+    margin: 0;
+    width: 50%;
+}
+
+img {
+    background-color: cadetblue;
+    width: 200px;
+    margin-left: 0px;
+    display: block;
+}
+
+h1 {
+    margin: 10px;
+    margin-bottom: 30px;
+}
+
+h6 {
+    margin: 0px;
+    background-color: darkcyan;
+}
